@@ -7,11 +7,11 @@ export const personalData = {
   phone: '+18199182823',
   address: '106 rue du Meridien, Quebec, Canada',
   github: 'https://github.com/HIZE-Y',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
+  facebook: '',
   linkedIn: 'https://www.linkedin.com/in/yahya-hizebry-393a11234/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  twitter: '',
+  stackOverflow: '',
+  leetcode: "",
+  devUsername: "",
   resume: "https://drive.google.com/file/d/12Ia18LZFyPJ54STH0OGptv_aZWxzdz0x/view?usp=drive_link"
 }
